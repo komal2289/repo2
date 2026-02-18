@@ -1,0 +1,9 @@
+package JAVAPgms
+class MyFirstClass
+{
+  public static void main(String[] args)
+  {
+    System.out.println("Welcome");
+    System.out.print("to the Java Class");
+  }
+}
