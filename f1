@@ -1,3 +1,5 @@
+echo "This is a Java program of Single Inheritance"
+
 package JAVAPgms
 
 class Mobile
